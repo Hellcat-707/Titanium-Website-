@@ -1,0 +1,8 @@
+{
+  "name": "Titanium Qatar",
+  "description": "Sleek, high-performance web interface and CMS for Titanium Qatar – Doha's premier car tinting, paint protection (PPF), and ceramic coating center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
